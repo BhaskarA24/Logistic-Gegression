@@ -1,2 +1,2 @@
-# Logistic-Gegression
+# Logistic-Regression
 using bank dataset
